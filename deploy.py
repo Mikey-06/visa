@@ -5,3 +5,4 @@ echo "Hello World"
 # shell script
 deployment5
 deploy to uat
+deploy to staging environment
